@@ -40,6 +40,11 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
 
 ### Questions We are Asking
 1. How can we use Mt. Baker lapse rates to study changes in the ecosystem?
+2. How does temperature vary with height and in time on Mount Baker?
+3. How do bulk snow properties vary with height and in time on Mount Baker?
+4. How does snow extent vary sub-seasonally and inter-annually on Mount Baker?
+5. How does snow depth vary at Schriebers Meadow, Mount Baker?
+6. How does snow water equivalent vary in the Mount Baker region?
 
 ### Interested in Contributing
 If you are interested in contributing or have any questions, please reach out to michael.town@esr.org.
